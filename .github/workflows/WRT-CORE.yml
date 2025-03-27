@@ -227,7 +227,7 @@ jobs:
           files: ./wrt/upload/*.*
           body: |
 
-            带开源硬件加速，mosdns、smartdns、adguardhome 和 lucky
+            带开源硬件加速，MosDNS、SmartDNS、AdguardHome、HomeProxy、Nikki、Tailscale、Wake on LAN 和 Lucky
 
             内核版本：${{env.WRT_KVER}}
 
